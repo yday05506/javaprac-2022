@@ -3,9 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="ef73733b-86c7-4cba-8e60-0c7e9167c45d" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/src/thread07/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread07/BankExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread07/Family1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread07/Family2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/thread06/MultiThreadExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thread06/MultiThreadExam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/thread06/Summing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thread06/Summing.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +43,9 @@
       <recent name="E:\mirim\2022\Practice\JAVA\src\thread03" />
       <recent name="E:\mirim\2022\Practice\JAVA\src\thread02" />
       <recent name="E:\mirim\2022\Practice\JAVA\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="thread07" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -88,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660706298250</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Thread">
+      <created>1661842071956</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1661842071956</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
