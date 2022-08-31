@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef73733b-86c7-4cba-8e60-0c7e9167c45d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/awtgui01/DialogExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/awtgui01/PanelExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/awtgui01/ButtonExam.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +33,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/thread04" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -46,7 +46,20 @@
       <recent name="thread07" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DialogExam">
+  <component name="RunManager" selected="Application.ButtonExam">
+    <configuration name="ButtonExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="awtgui01.ButtonExam" />
+      <module name="JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="awtgui01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DialogExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="awtgui01.DialogExam" />
       <module name="JAVA" />
@@ -75,6 +88,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ButtonExam" />
         <item itemvalue="Application.DialogExam" />
         <item itemvalue="Application.PanelExam" />
       </list>
@@ -138,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661916190158</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Dialog">
+      <created>1661917300201</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1661917300201</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -158,6 +179,11 @@
     <MESSAGE value="n을 x로 나눴을 때 나머지가 1이 되면 리턴" />
     <MESSAGE value="Thread" />
     <MESSAGE value="Frame" />
-    <option name="LAST_COMMIT_MESSAGE" value="Frame" />
+    <MESSAGE value="Dialog" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dialog" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
