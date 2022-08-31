@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef73733b-86c7-4cba-8e60-0c7e9167c45d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/awtgui01/RadioCheckBoxExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/awtgui01/ButtonPractice.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,9 +44,22 @@
       <recent name="thread07" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CheckBoxExam">
+  <component name="RunManager" selected="Application.ButtonPractice">
     <configuration name="ButtonExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="awtgui01.ButtonExam" />
+      <module name="JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="awtgui01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ButtonPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="awtgui01.ButtonPractice" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
@@ -99,6 +112,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ButtonPractice" />
         <item itemvalue="Application.CheckBoxExam" />
         <item itemvalue="Application.ButtonExam" />
         <item itemvalue="Application.DialogExam" />
@@ -185,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661918306932</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="RadioCheckBox">
+      <created>1661918779259</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1661918779259</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -208,7 +229,8 @@
     <MESSAGE value="Dialog" />
     <MESSAGE value="Button" />
     <MESSAGE value="CheckBox" />
-    <option name="LAST_COMMIT_MESSAGE" value="CheckBox" />
+    <MESSAGE value="RadioCheckBox" />
+    <option name="LAST_COMMIT_MESSAGE" value="RadioCheckBox" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
