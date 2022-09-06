@@ -8,9 +8,9 @@ public class TextFieldExam extends Frame {
         super("텍스트필드");
         Panel p = new Panel();  // Panel 객체 생성
         TextField tf1 = new TextField("주민등록 앞자리");
-        TextField tf2 = new TextField("15");
+        TextField tf2 = new TextField("15");    // 15개 문자를 입력
 
-        tf1.selectAll();
+        tf1.selectAll();    // 문자열 전체 선택
         tf2.setEchoChar('*');
 
         p.add(tf1);

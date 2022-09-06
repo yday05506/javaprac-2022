@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef73733b-86c7-4cba-8e60-0c7e9167c45d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/awtgui01/ListExam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/awtgui01/TextFieldExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/awtgui01/TextFieldExam.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -255,7 +255,21 @@
       <option name="project" value="LOCAL" />
       <updated>1662447680542</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="List">
+      <created>1662447861337</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1662447861337</updated>
+    </task>
+    <task id="LOCAL-00017" summary="TextField">
+      <created>1662448088051</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1662448088051</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -283,7 +297,9 @@
     <MESSAGE value="CheckBox Practice" />
     <MESSAGE value="Label" />
     <MESSAGE value="Choice" />
-    <option name="LAST_COMMIT_MESSAGE" value="Choice" />
+    <MESSAGE value="List" />
+    <MESSAGE value="TextField" />
+    <option name="LAST_COMMIT_MESSAGE" value="TextField" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
