@@ -58,20 +58,7 @@
       <recent name="thread07" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TextFieldExam">
-    <configuration name="ButtonExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="awtgui01.ButtonExam" />
-      <module name="JAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="awtgui01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TextAreaExam">
     <configuration name="ChoiceExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="awtgui01.ChoiceExam" />
       <module name="JAVA" />
@@ -111,6 +98,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TextAreaExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="awtgui01.TextAreaExam" />
+      <module name="JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="awtgui01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TextFieldExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="awtgui01.TextFieldExam" />
       <module name="JAVA" />
@@ -125,19 +125,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ButtonExam" />
       <item itemvalue="Application.LabelExam" />
       <item itemvalue="Application.ChoiceExam" />
       <item itemvalue="Application.ListExam" />
       <item itemvalue="Application.TextFieldExam" />
+      <item itemvalue="Application.TextAreaExam" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TextAreaExam" />
         <item itemvalue="Application.TextFieldExam" />
         <item itemvalue="Application.ListExam" />
         <item itemvalue="Application.ChoiceExam" />
         <item itemvalue="Application.LabelExam" />
-        <item itemvalue="Application.ButtonExam" />
       </list>
     </recent_temporary>
   </component>
