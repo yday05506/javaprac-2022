@@ -60,7 +60,7 @@
       <recent name="thread07" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LabelExam">
+  <component name="RunManager" selected="Application.ChoiceExam">
     <configuration name="ButtonExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="awtgui01.ButtonExam" />
       <module name="JAVA" />
@@ -87,9 +87,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckBoxExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="awtgui01.CheckBoxExam" />
+    <configuration name="CheckBoxPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="awtgui01.CheckBoxPractice" />
       <module name="JAVA" />
+      <option name="VM_PARAMETERS" value="-Dfile.encoding=MS949" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="awtgui01.*" />
@@ -100,10 +101,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckBoxPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="awtgui01.CheckBoxPractice" />
+    <configuration name="ChoiceExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="awtgui01.ChoiceExam" />
       <module name="JAVA" />
-      <option name="VM_PARAMETERS" value="-Dfile.encoding=MS949" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="awtgui01.*" />
@@ -130,17 +130,17 @@
     <list>
       <item itemvalue="Application.ButtonExam" />
       <item itemvalue="Application.ButtonPractice" />
-      <item itemvalue="Application.CheckBoxExam" />
       <item itemvalue="Application.CheckBoxPractice" />
       <item itemvalue="Application.LabelExam" />
+      <item itemvalue="Application.ChoiceExam" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ChoiceExam" />
         <item itemvalue="Application.LabelExam" />
         <item itemvalue="Application.ButtonExam" />
         <item itemvalue="Application.CheckBoxPractice" />
         <item itemvalue="Application.ButtonPractice" />
-        <item itemvalue="Application.CheckBoxExam" />
       </list>
     </recent_temporary>
   </component>
