@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef73733b-86c7-4cba-8e60-0c7e9167c45d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/codingTest/Average.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codingTest/squareRoot.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/awtgui01/BorderLayoutExam.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +58,20 @@
       <recent name="thread07" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GridLayoutExam">
+  <component name="RunManager" selected="Application.BorderLayoutExam">
+    <configuration name="BorderLayoutExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="awtgui01.BorderLayoutExam" />
+      <module name="JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="awtgui01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FlowLayoutExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="awtgui01.FlowLayoutExam" />
       <module name="JAVA" />
@@ -75,19 +87,6 @@
     </configuration>
     <configuration name="GridLayoutExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="awtgui01.GridLayoutExam" />
-      <module name="JAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="awtgui01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ListExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="awtgui01.ListExam" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
@@ -126,19 +125,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ListExam" />
       <item itemvalue="Application.TextFieldExam" />
       <item itemvalue="Application.TextAreaExam" />
       <item itemvalue="Application.FlowLayoutExam" />
       <item itemvalue="Application.GridLayoutExam" />
+      <item itemvalue="Application.BorderLayoutExam" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BorderLayoutExam" />
         <item itemvalue="Application.GridLayoutExam" />
         <item itemvalue="Application.FlowLayoutExam" />
         <item itemvalue="Application.TextAreaExam" />
         <item itemvalue="Application.TextFieldExam" />
-        <item itemvalue="Application.ListExam" />
       </list>
     </recent_temporary>
   </component>
@@ -305,7 +304,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663510972918</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Grid">
+      <created>1663655516612</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1663655516612</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -339,7 +345,8 @@
     <MESSAGE value="FlowLayout" />
     <MESSAGE value="평균 구하기" />
     <MESSAGE value="정수 제곱근 판별" />
-    <option name="LAST_COMMIT_MESSAGE" value="정수 제곱근 판별" />
+    <MESSAGE value="Grid" />
+    <option name="LAST_COMMIT_MESSAGE" value="Grid" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
