@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef73733b-86c7-4cba-8e60-0c7e9167c45d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/codingTest/squareRoot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codingTest/Average.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codingTest/squareRoot.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,9 +59,9 @@
       <recent name="thread07" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FlowLayoutExam">
-    <configuration name="ChoiceExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="awtgui01.ChoiceExam" />
+  <component name="RunManager" selected="Application.GridLayoutExam">
+    <configuration name="FlowLayoutExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="awtgui01.FlowLayoutExam" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
@@ -73,8 +73,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FlowLayoutExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="awtgui01.FlowLayoutExam" />
+    <configuration name="GridLayoutExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="awtgui01.GridLayoutExam" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
@@ -126,19 +126,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ChoiceExam" />
       <item itemvalue="Application.ListExam" />
       <item itemvalue="Application.TextFieldExam" />
       <item itemvalue="Application.TextAreaExam" />
       <item itemvalue="Application.FlowLayoutExam" />
+      <item itemvalue="Application.GridLayoutExam" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GridLayoutExam" />
         <item itemvalue="Application.FlowLayoutExam" />
         <item itemvalue="Application.TextAreaExam" />
         <item itemvalue="Application.TextFieldExam" />
         <item itemvalue="Application.ListExam" />
-        <item itemvalue="Application.ChoiceExam" />
       </list>
     </recent_temporary>
   </component>
@@ -298,7 +298,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663507006020</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="정수 제곱근 판별">
+      <created>1663510972918</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1663510972918</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -331,7 +338,8 @@
     <MESSAGE value="TextArea" />
     <MESSAGE value="FlowLayout" />
     <MESSAGE value="평균 구하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="평균 구하기" />
+    <MESSAGE value="정수 제곱근 판별" />
+    <option name="LAST_COMMIT_MESSAGE" value="정수 제곱근 판별" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
