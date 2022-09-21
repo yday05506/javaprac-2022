@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef73733b-86c7-4cba-8e60-0c7e9167c45d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/awtgui03/MyFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/awtgui03/ContentPaneEX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,13 +59,13 @@
       <recent name="thread07" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyFrame">
-    <configuration name="ItemEventExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="awtgui02.ItemEventExam" />
+  <component name="RunManager" selected="Application.ContentPaneEX">
+    <configuration name="ContentPaneEX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="awtgui03.ContentPaneEX" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="awtgui02.*" />
+          <option name="PATTERN" value="awtgui03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,19 +126,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ItemEventExam" />
       <item itemvalue="Application.KeyEventExam" />
       <item itemvalue="Application.WindowEventExam" />
       <item itemvalue="Application.WindowEventExam2" />
       <item itemvalue="Application.MyFrame" />
+      <item itemvalue="Application.ContentPaneEX" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ContentPaneEX" />
         <item itemvalue="Application.MyFrame" />
         <item itemvalue="Application.WindowEventExam2" />
         <item itemvalue="Application.WindowEventExam" />
         <item itemvalue="Application.KeyEventExam" />
-        <item itemvalue="Application.ItemEventExam" />
       </list>
     </recent_temporary>
   </component>
@@ -346,7 +347,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663722875428</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Swing">
+      <created>1663724585287</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1663724585287</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -361,7 +369,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="값을 입력하여 직사각형으로 별 찍기" />
     <MESSAGE value="Collatz 식" />
     <MESSAGE value="n을 x로 나눴을 때 나머지가 1이 되면 리턴" />
     <MESSAGE value="Thread" />
@@ -386,7 +393,8 @@
     <MESSAGE value="ItemEvent" />
     <MESSAGE value="KeyEvent" />
     <MESSAGE value="WindowEvent" />
-    <option name="LAST_COMMIT_MESSAGE" value="WindowEvent" />
+    <MESSAGE value="Swing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Swing" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
