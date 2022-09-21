@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef73733b-86c7-4cba-8e60-0c7e9167c45d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/awtgui03/BorderLayoutEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/awtgui03/GridLayoutEx.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -367,7 +367,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663725608549</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="BorderLayout">
+      <created>1663725854479</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1663725854479</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -382,7 +389,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="n을 x로 나눴을 때 나머지가 1이 되면 리턴" />
     <MESSAGE value="Thread" />
     <MESSAGE value="Frame" />
     <MESSAGE value="Dialog" />
@@ -407,7 +413,8 @@
     <MESSAGE value="Swing" />
     <MESSAGE value="contentPane" />
     <MESSAGE value="FlowLayout" />
-    <option name="LAST_COMMIT_MESSAGE" value="FlowLayout" />
+    <MESSAGE value="BorderLayout" />
+    <option name="LAST_COMMIT_MESSAGE" value="BorderLayout" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
