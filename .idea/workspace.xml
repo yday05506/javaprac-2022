@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef73733b-86c7-4cba-8e60-0c7e9167c45d" name="Changes" comment="KeyEvent">
-      <change afterPath="$PROJECT_DIR$/src/awtgui02/WindowEventExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/awtgui02/WindowEventExam2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ef73733b-86c7-4cba-8e60-0c7e9167c45d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/awtgui03/MyFrame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,20 +58,7 @@
       <recent name="thread07" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WindowEventExam2">
-    <configuration name="ActionEventExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="awtgui02.ActionEventExam" />
-      <module name="JAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="awtgui02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MyFrame">
     <configuration name="ItemEventExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="awtgui02.ItemEventExam" />
       <module name="JAVA" />
@@ -93,6 +78,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="awtgui02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="awtgui03.MyFrame" />
+      <module name="JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="awtgui03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,19 +125,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ActionEventExam" />
       <item itemvalue="Application.ItemEventExam" />
       <item itemvalue="Application.KeyEventExam" />
       <item itemvalue="Application.WindowEventExam" />
       <item itemvalue="Application.WindowEventExam2" />
+      <item itemvalue="Application.MyFrame" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyFrame" />
         <item itemvalue="Application.WindowEventExam2" />
         <item itemvalue="Application.WindowEventExam" />
         <item itemvalue="Application.KeyEventExam" />
         <item itemvalue="Application.ItemEventExam" />
-        <item itemvalue="Application.ActionEventExam" />
       </list>
     </recent_temporary>
   </component>
@@ -341,7 +339,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663721931777</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="WindowEvent">
+      <created>1663722875428</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1663722875428</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -380,7 +385,8 @@
     <MESSAGE value="ActionEvent" />
     <MESSAGE value="ItemEvent" />
     <MESSAGE value="KeyEvent" />
-    <option name="LAST_COMMIT_MESSAGE" value="KeyEvent" />
+    <MESSAGE value="WindowEvent" />
+    <option name="LAST_COMMIT_MESSAGE" value="WindowEvent" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
