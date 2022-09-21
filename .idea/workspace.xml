@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef73733b-86c7-4cba-8e60-0c7e9167c45d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/awtgui02/ItemEventExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/awtgui02/KeyEventExam.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +59,7 @@
       <recent name="thread07" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ItemEventExam">
+  <component name="RunManager" selected="Application.KeyEventExam">
     <configuration name="ActionEventExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="awtgui02.ActionEventExam" />
       <module name="JAVA" />
@@ -75,19 +75,6 @@
     </configuration>
     <configuration name="BorderLayoutExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="awtgui01.BorderLayoutExam" />
-      <module name="JAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="awtgui01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FlowLayoutExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="awtgui01.FlowLayoutExam" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
@@ -125,20 +112,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="KeyEventExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="awtgui02.KeyEventExam" />
+      <module name="JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="awtgui02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.FlowLayoutExam" />
       <item itemvalue="Application.GridLayoutExam" />
       <item itemvalue="Application.BorderLayoutExam" />
       <item itemvalue="Application.ActionEventExam" />
       <item itemvalue="Application.ItemEventExam" />
+      <item itemvalue="Application.KeyEventExam" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KeyEventExam" />
         <item itemvalue="Application.ItemEventExam" />
         <item itemvalue="Application.ActionEventExam" />
         <item itemvalue="Application.BorderLayoutExam" />
         <item itemvalue="Application.GridLayoutExam" />
-        <item itemvalue="Application.FlowLayoutExam" />
       </list>
     </recent_temporary>
   </component>
@@ -326,7 +326,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663656669042</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="ItemEvent">
+      <created>1663657456101</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1663657456101</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -363,7 +370,8 @@
     <MESSAGE value="Grid" />
     <MESSAGE value="Border" />
     <MESSAGE value="ActionEvent" />
-    <option name="LAST_COMMIT_MESSAGE" value="ActionEvent" />
+    <MESSAGE value="ItemEvent" />
+    <option name="LAST_COMMIT_MESSAGE" value="ItemEvent" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
