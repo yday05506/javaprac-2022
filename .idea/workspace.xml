@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef73733b-86c7-4cba-8e60-0c7e9167c45d" name="Changes" comment="" />
+    <list default="true" id="ef73733b-86c7-4cba-8e60-0c7e9167c45d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/collection01/HashMapDicEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection01/HashMapDicEx.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -408,7 +410,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666681110372</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="HashMap">
+      <created>1666681474082</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1666681474082</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -423,7 +432,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="RadioCheckBox" />
     <MESSAGE value="Button Practice" />
     <MESSAGE value="CheckBox Practice" />
     <MESSAGE value="Label" />
@@ -448,7 +456,8 @@
     <MESSAGE value="pointVector" />
     <MESSAGE value="ArrayList" />
     <MESSAGE value="Iterator" />
-    <option name="LAST_COMMIT_MESSAGE" value="Iterator" />
+    <MESSAGE value="HashMap" />
+    <option name="LAST_COMMIT_MESSAGE" value="HashMap" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
