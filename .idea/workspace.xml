@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef73733b-86c7-4cba-8e60-0c7e9167c45d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/collection01/IteratorEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ef73733b-86c7-4cba-8e60-0c7e9167c45d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +57,7 @@
       <recent name="thread07" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.IteratorEx">
+  <component name="RunManager" selected="Application.HashMapDicEx">
     <configuration name="ArrayListEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="collection01.ArrayListEx" />
       <module name="JAVA" />
@@ -87,8 +84,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FlowLayoutEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="awtgui03.FlowLayoutEx" />
+    <configuration name="GridLayoutEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="awtgui03.GridLayoutEx" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
@@ -100,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GridLayoutEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="awtgui03.GridLayoutEx" />
+    <configuration name="HashMapDicEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection01.HashMapDicEx" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="awtgui03.*" />
+          <option name="PATTERN" value="collection01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,18 +125,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.BorderLayoutEx" />
-      <item itemvalue="Application.FlowLayoutEx" />
       <item itemvalue="Application.ArrayListEx" />
       <item itemvalue="Application.GridLayoutEx" />
       <item itemvalue="Application.IteratorEx" />
+      <item itemvalue="Application.HashMapDicEx" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HashMapDicEx" />
         <item itemvalue="Application.IteratorEx" />
         <item itemvalue="Application.ArrayListEx" />
         <item itemvalue="Application.GridLayoutEx" />
         <item itemvalue="Application.BorderLayoutEx" />
-        <item itemvalue="Application.FlowLayoutEx" />
       </list>
     </recent_temporary>
   </component>
@@ -404,7 +401,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666680623571</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Iterator">
+      <created>1666681110372</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1666681110372</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -419,7 +423,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="CheckBox" />
     <MESSAGE value="RadioCheckBox" />
     <MESSAGE value="Button Practice" />
     <MESSAGE value="CheckBox Practice" />
@@ -444,7 +447,8 @@
     <MESSAGE value="Vector" />
     <MESSAGE value="pointVector" />
     <MESSAGE value="ArrayList" />
-    <option name="LAST_COMMIT_MESSAGE" value="ArrayList" />
+    <MESSAGE value="Iterator" />
+    <option name="LAST_COMMIT_MESSAGE" value="Iterator" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
