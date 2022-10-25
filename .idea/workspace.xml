@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef73733b-86c7-4cba-8e60-0c7e9167c45d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/collection01/ArrayListEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection01/IteratorEx.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collection01/PointVectorEx.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +60,7 @@
       <recent name="thread07" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArrayListEx">
+  <component name="RunManager" selected="Application.IteratorEx">
     <configuration name="ArrayListEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="collection01.ArrayListEx" />
       <module name="JAVA" />
@@ -77,19 +76,6 @@
     </configuration>
     <configuration name="BorderLayoutEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="awtgui03.BorderLayoutEx" />
-      <module name="JAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="awtgui03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ContentPaneEX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="awtgui03.ContentPaneEX" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
@@ -127,20 +113,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="IteratorEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection01.IteratorEx" />
+      <module name="JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collection01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.BorderLayoutEx" />
-      <item itemvalue="Application.ContentPaneEX" />
       <item itemvalue="Application.FlowLayoutEx" />
       <item itemvalue="Application.ArrayListEx" />
       <item itemvalue="Application.GridLayoutEx" />
+      <item itemvalue="Application.IteratorEx" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IteratorEx" />
         <item itemvalue="Application.ArrayListEx" />
         <item itemvalue="Application.GridLayoutEx" />
         <item itemvalue="Application.BorderLayoutEx" />
         <item itemvalue="Application.FlowLayoutEx" />
-        <item itemvalue="Application.ContentPaneEX" />
       </list>
     </recent_temporary>
   </component>
@@ -398,7 +397,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666680189812</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="ArrayList">
+      <created>1666680623571</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1666680623571</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -413,7 +419,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Button" />
     <MESSAGE value="CheckBox" />
     <MESSAGE value="RadioCheckBox" />
     <MESSAGE value="Button Practice" />
@@ -438,7 +443,8 @@
     <MESSAGE value="GridLayout" />
     <MESSAGE value="Vector" />
     <MESSAGE value="pointVector" />
-    <option name="LAST_COMMIT_MESSAGE" value="pointVector" />
+    <MESSAGE value="ArrayList" />
+    <option name="LAST_COMMIT_MESSAGE" value="ArrayList" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
