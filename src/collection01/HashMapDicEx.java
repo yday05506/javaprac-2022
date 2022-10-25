@@ -22,6 +22,7 @@ public class HashMapDicEx {
                 break;
             }
             // 해시맵에서 '키' eng의 '값' kor 검색
+            // eng는 key값, key에 해당하는 value값을 kor에 저장
             String kor = dic.get(eng);
             if(kor == null)
                 System.out.println(eng +
